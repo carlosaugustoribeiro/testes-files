@@ -1,11 +1,5 @@
 [
   {
-    "id": 1,
-    "nome": "Coca Cola 2L",
-    "preco": 12.9,
-    "imagem": "https://img.cdndsgni.com/preview/10001707.jpg"
-  },
-  {
     "id": 2,
     "nome": "Toddynho",
     "preco": 3.5,
@@ -16,12 +10,6 @@
     "nome": "Trakinas Chocolate",
     "preco": 4.0,
     "imagem": "https://toppng.com/uploads/preview/biscoito-trakinas-115510487318cmblxxsof.png"
-  },
-  {
-    "id": 4,
-    "nome": "Coca Cola 2L",
-    "preco": 12.9,
-    "imagem": "https://img.cdndsgni.com/preview/10001707.jpg"
   },
   {
     "id": 5,
@@ -36,12 +24,6 @@
     "imagem": "https://toppng.com/uploads/preview/biscoito-trakinas-115510487318cmblxxsof.png"
   },
   {
-    "id": 7,
-    "nome": "Coca Cola 2L",
-    "preco": 12.9,
-    "imagem": "https://img.cdndsgni.com/preview/10001707.jpg"
-  },
-  {
     "id": 8,
     "nome": "Toddynho",
     "preco": 3.5,
@@ -52,12 +34,6 @@
     "nome": "Trakinas Chocolate",
     "preco": 4.0,
     "imagem": "https://toppng.com/uploads/preview/biscoito-trakinas-115510487318cmblxxsof.png"
-  },
-  {
-    "id": 10,
-    "nome": "Coca Cola 2L",
-    "preco": 12.9,
-    "imagem": "https://img.cdndsgni.com/preview/10001707.jpg"
   },
   {
     "id": 11,
