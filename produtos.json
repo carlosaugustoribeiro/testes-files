@@ -1,23 +1,20 @@
 [
   {
     "id": 1,
-    "nome": "Camiseta",
-    "preco": 59.9,
-    "imagem": "https://meusite.com/imagens/camiseta.png",
-    "descricao": "Camiseta 100% algodão"
+    "nome": "Coca Cola 2L",
+    "preco": 12.90,
+    "imagem": "https://img.cdndsgni.com/preview/10001707.jpg",
   },
   {
     "id": 2,
-    "nome": "Tênis",
-    "preco": 299.9,
-    "imagem": "https://meusite.com/imagens/tenis.png",
-    "descricao": "Tênis esportivo confortável"
+    "nome": "Toddynho",
+    "preco": 3.50,
+    "imagem": "https://superprix.vteximg.com.br/arquivos/ids/226422/Bebida-Lactea-UHT-Chocolate-Toddynho-Caixa-200ml.png.png?v=638774753947300000",
   },
   {
     "id": 3,
-    "nome": "Boné",
-    "preco": 49.9,
-    "imagem": "https://meusite.com/imagens/bone.png",
-    "descricao": "Boné estiloso e ajustável"
+    "nome": "Trakinas Chocolate",
+    "preco": 4.00,
+    "imagem": "https://toppng.com/uploads/preview/biscoito-trakinas-115510487318cmblxxsof.png",
   }
 ]
