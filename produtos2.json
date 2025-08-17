@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "Camiseta",
+    "preco": 59.9,
+    "imagem": "https://meusite.com/imagens/camiseta.png",
+    "descricao": "Camiseta 100% algodão"
+  },
+  {
+    "id": 2,
+    "nome": "Tênis",
+    "preco": 299.9,
+    "imagem": "https://meusite.com/imagens/tenis.png",
+    "descricao": "Tênis esportivo confortável"
+  },
+  {
+    "id": 3,
+    "nome": "Boné",
+    "preco": 49.9,
+    "imagem": "https://meusite.com/imagens/bone.png",
+    "descricao": "Boné estiloso e ajustável"
+  }
+]
